@@ -1,0 +1,2 @@
+D:\Программирование\CourseWork\CourseProgram\Debug\CourseProgram.exe
+D:\Программирование\CourseWork\CourseProgram\Debug\CourseProgram.pdb

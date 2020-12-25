@@ -1,0 +1,11 @@
+﻿  Expression.cpp
+D:\Программирование\CourseWork\CourseProgram\Expression.cpp(23,20): warning C4018: '<': signed/unsigned mismatch
+D:\Программирование\CourseWork\CourseProgram\Expression.cpp(154,20): warning C4018: '<': signed/unsigned mismatch
+D:\Программирование\CourseWork\CourseProgram\Expression.cpp(160,81): warning C4018: '<': signed/unsigned mismatch
+D:\Программирование\CourseWork\CourseProgram\Expression.cpp(153,9): warning C4101: 'check_frac': unreferenced local variable
+  List.cpp
+D:\Программирование\CourseWork\CourseProgram\List.cpp(109,12): warning C4018: '>=': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+D:\Программирование\CourseWork\CourseProgram\List.cpp(120): warning C4715: 'List::at': not all control paths return a value
+  CourseProgram.vcxproj -> D:\Программирование\CourseWork\CourseProgram\Debug\CourseProgram.exe
